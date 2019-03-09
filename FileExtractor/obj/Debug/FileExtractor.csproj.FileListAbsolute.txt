@@ -1,0 +1,17 @@
+E:\Manish\FileExtractor\FileExtractor\bin\Debug\FileExtractor.exe.config
+E:\Manish\FileExtractor\FileExtractor\bin\Debug\FileExtractor.exe
+E:\Manish\FileExtractor\FileExtractor\bin\Debug\FileExtractor.pdb
+E:\Manish\FileExtractor\FileExtractor\obj\Debug\FileExtractor.csproj.CoreCompileInputs.cache
+E:\Manish\FileExtractor\FileExtractor\obj\Debug\FileExtractor.exe
+E:\Manish\FileExtractor\FileExtractor\obj\Debug\FileExtractor.pdb
+E:\Manish\FileExtractor\FileExtractor\bin\Debug\ClosedXML.dll
+E:\Manish\FileExtractor\FileExtractor\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Manish\FileExtractor\FileExtractor\bin\Debug\ExcelNumberFormat.dll
+E:\Manish\FileExtractor\FileExtractor\bin\Debug\FastMember.dll
+E:\Manish\FileExtractor\FileExtractor\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Manish\FileExtractor\FileExtractor\bin\Debug\System.IO.Packaging.dll
+E:\Manish\FileExtractor\FileExtractor\bin\Debug\ClosedXML.pdb
+E:\Manish\FileExtractor\FileExtractor\bin\Debug\ClosedXML.xml
+E:\Manish\FileExtractor\FileExtractor\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Manish\FileExtractor\FileExtractor\bin\Debug\ExcelNumberFormat.xml
+E:\Manish\FileExtractor\FileExtractor\obj\Debug\FileExtractor.csproj.CopyComplete
